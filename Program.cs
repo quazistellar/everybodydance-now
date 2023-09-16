@@ -146,6 +146,7 @@ namespace SuperCalculatorApp
                         }  
                 } 
                 Console.WriteLine(" ");
+                
             } 
             while (doing != 9);
         }
