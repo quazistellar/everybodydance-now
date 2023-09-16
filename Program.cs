@@ -85,7 +85,7 @@ namespace SuperCalculatorApp
                             Console.WriteLine("введите номер операции (1-8) снова или нажмите '9', чтобы завершить работу калькулятора");
                             break;
                         case 9:
-                            Console.WriteLine("Вы завершили работу с калькулятором");
+                            Console.WriteLine("Вы завершили работу с калькулятором!");
                             break;
                         default:
                             Console.WriteLine("такого числа в меню нет, попробуйте ещё раз((( ");
@@ -112,7 +112,6 @@ namespace SuperCalculatorApp
                                 Console.WriteLine("Ваш результат нахождения квадратного корня из числа: " + sqrtroot);
                                 Console.WriteLine("введите номер операции (1-8) снова или нажмите '9', чтобы завершить работу калькулятора");
                             }
-                          
                             break;
                         case 7:
                             double procent1 = number11 * 0.01;
@@ -136,7 +135,7 @@ namespace SuperCalculatorApp
                     Console.WriteLine("введите номер операции (1-8) снова или нажмите '9', чтобы завершить работу калькулятора");
                             break;
                         case 9:
-                            Console.WriteLine("Вы завершили работу с калькулятором");
+                            Console.WriteLine("Вы завершили работу с калькулятором!");
                             break;
                         default:
                             Console.WriteLine("такого числа в меню нет, попробуйте ещё раз((( ");
