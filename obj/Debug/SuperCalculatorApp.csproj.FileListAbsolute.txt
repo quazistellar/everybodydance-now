@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SuperCalculatorApp\bin\Debug\SuperCalculatorApp.exe.config
+C:\Users\User\source\repos\SuperCalculatorApp\bin\Debug\SuperCalculatorApp.exe
+C:\Users\User\source\repos\SuperCalculatorApp\bin\Debug\SuperCalculatorApp.pdb
+C:\Users\User\source\repos\SuperCalculatorApp\obj\Debug\SuperCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SuperCalculatorApp\obj\Debug\SuperCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperCalculatorApp\obj\Debug\SuperCalculatorApp.exe
+C:\Users\User\source\repos\SuperCalculatorApp\obj\Debug\SuperCalculatorApp.pdb
